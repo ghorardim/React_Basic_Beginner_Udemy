@@ -1,3 +1,9 @@
+course link: https://www.udemy.com/course/react-basics-for-beginners-javascript/learn/lecture/24279148?start=0#overview
+Instructor: Harsha Vardhan
+course type: Free
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
