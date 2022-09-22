@@ -1,0 +1,15 @@
+.highlight {
+    background-color: rgb(222, 235, 41);
+    font-size: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar {
+    background-color: rgb(92, 92, 207) !important;
+}
+.btnClickCount {
+    height: 5vh;
+    width: fit-content;
+    padding: 0px 10px;
+}
